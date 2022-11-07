@@ -1,0 +1,7 @@
+{
+  "name": "@wcd/mashamaite.lwc-la146oha-fork-la14ei86",
+  "version": "0.0.1",
+  "scripts": {
+    "serve": "npx wcd-cli@latest serve 02dBYJLzBOoaeOJgKhZM --open"
+  }
+}
